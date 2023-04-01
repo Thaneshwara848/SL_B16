@@ -1,0 +1,215 @@
+Quickly Revise all the topics so far all the phases 
+
+Phase 1 
+		Why ? what ? where? when ? etc...!
+		Basics of Java 
+			Statments : if, if else , switch , 
+			loop: 	for , while , do while 
+			jump : 	continue , return, break 
+		Operators :
+			uniary : int a =100;
+					a++,a--,++a,--a;
+ 
+			binary 
+				int a =100 ;int b=200;
+					Arethenmetic operation 
+					Conditional 
+					Relational 
+					Logical Operators 
+					Bitwise operatos
+					etc...!
+			tranary 
+					a<=b ? a : b 
+		Oops : 
+				Inheritance : acquare the proprty from parent to child 
+				Polymarhism : one mthod diff behivor 
+				Abseration : hide the  implemention 
+				Encupulation : hide the data 
+
+		Exception Handling : 
+						Checked / complie time / static binding  : ex: IO , SQL , Socket .....
+						Uncheck / run time     / dynamic binding : AE, NPE, NFE ,CCE, AIOBE,STIOB,etc...!
+		MultiThreading : 		
+		
+		Object Class : 
+		Arrrays : 
+		Collections : 
+					LIST : arrayList, LinkedList,vector, Stack
+					SET : LinkedhashSet, HaseSet, TreeSet
+					MAP : HashMap, LinkedHashMap, TreeMap, 
+
+Phase 2
+			JDBC :
+					5 stpes: 
+						load the driver : 
+						Create the connection 
+						Statemtn 
+						extecute 
+						close 
+
+			Servlet 
+					httpServletRequest , httpServletResponce, GenricServlet, 
+					DoGet ,Do Post 
+					life cycle methods 
+					Filter 
+					Config and Context 
+					httpSession : 
+						cookis , Sessions
+			JSP 
+					
+			JSTL 
+			HIbernate
+					in hibernte 
+					table  ? automatically ...! : @Entiry , Id , @Column , @Transient ...
+					cfg file 
+					ORM 
+					Mapping : 1-1,1-M,M-M,M-1 : 
+					SQL : HQL :  
+			
+			MYSQL : ddl , dml ,drl ,dcl <tcl , JOINS , sUBqUERIES , constrients ,m Data Type ,,,,!
+
+
+
+
+
+
+
+Phase 3
+
+
+				SPring : 
+						core 
+						Hibernate 
+						MVC 
+						AOP 
+						Boot : 
+								web 
+								JPA 
+								Security 
+								JDBC 
+								Cloud 
+								etc....!
+
+
+
+Dev ops : 
+		Docker
+		jinkins 
+		Git 
+
+
+
+
+
+Phase 4 
+
+			Front End technlogies .....!
+
+			Angular : 
+				HTML 
+				CSS-----------> Bootstracp 
+				JabvaScript 	
+				TypesScript 
+				AngualrJS 
+
+
+
+
+Full Stack 
+
+
+Java Full Stack 
+Font End : 											MEAN STACK 				MERN Stack 
+
+		html 
+		css
+		javascript JS								AngularJS				React JS 												
+MiddleWare 
+			Server: tomcat 							Node JS 					Node Js
+	java 
+		servlet. jsp -----JDBC ---- mysql				ExpressJS 				ExpressJS
+		spring Mvc=-------HIbernate--Mysql 
+		Spring Web-------JPA -------mysql 			
+
+	Python : 
+		sql
+		Django 
+		Flask
+
+	.net 
+		ASP ADO
+
+BackEnd 
+		Mysql,oracle , H2								MongoDb				MongoDb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software List : 
+
+
+
+VS COde :  https://code.visualstudio.com/
+NOde JS :  https://nodejs.org/en
+Git :  https://git-scm.com/downloads
+STS /eclips ;  https://spring.io/blog/2021/06/21/spring-tools-4-11-0-released
+
+
+
+
+21 : 05 : 
+		20 minuts 
+21 : 25  
+
+
+
+
+html 
+
+
+heading 
+p 
+hr, br 
+input : 
+list 
+table 
+img , vedio ,aduio 
+
+storage : 
+			locall stoage 
+			session Strorage 
+
+map 
+
+
+
+
