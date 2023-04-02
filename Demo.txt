@@ -176,40 +176,39 @@ BackEnd
 
 Software List : 
 
-
-
 VS COde :  https://code.visualstudio.com/
 NOde JS :  https://nodejs.org/en
 Git :  https://git-scm.com/downloads
 STS /eclips ;  https://spring.io/blog/2021/06/21/spring-tools-4-11-0-released
 
 
-
-
-21 : 05 : 
-		20 minuts 
-21 : 25  
-
-
-
-
-html 
-
-
 heading 
-p 
-hr, br 
-input : 
+tables 
 list 
-table 
-img , vedio ,aduio 
+forms 
+imgs , vedio,aduio
+links : anchor tags 
+font 
+CSS : 
+		inline  : tag level
+		internal / embaded : page level  
+		external  : global level : only once 
+Selectors :
+	class selector 
+	id select 
+	tag selectors 
+	muiltytag selectors 
+	universal Selector 
 
-storage : 
-			locall stoage 
-			session Strorage 
-
-map 
-
-
-
-
+Banckground proprty:
+	colr 
+	imge 
+	size 
+	attachnmet 
+margin 
+padding 
+box model 
+opacity 
+hignht 
+width 
+overflow 
